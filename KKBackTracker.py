@@ -6,7 +6,8 @@
 #
 # Of the 10 in the circle, what is the minimum possible number of knights?
 # I figured this would be a decent way to illustrate the use of backtracking algorithms that rely on the all
-# so important notion of recursion.
+# so important notion of recursion.  Though this is not solved as a minimization problem, the use of brute force
+# solving with knaves before knights effectively makes it so.
 
 class KKBackTracker:
     # Members
